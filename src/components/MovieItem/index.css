@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.but1 {
+  background-color: #000000;
+  border-style: none;
+  border-width: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.img1 {
+  height: 200px;
+  width: 900px;
+}
+
+.popup-content {
+  border-radius: 10px;
+}
+.con11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.con12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.but2 {
+  background-color: transparent;
+  border-width: 0px;
+  border-style: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
